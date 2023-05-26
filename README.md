@@ -48,7 +48,7 @@ git push heroku main
 Wait for the deployment process to complete. Once finished, you can access your deployed app using the provided Heroku URL.
 
 ## Live Demo
-A live demo of the JATE application is available at: https://safe-basin-48262.herokuapp.com/
+A live demo of the JATE application is available at:  https://frozen-bastion-79226.herokuapp.com/
 
 ## PROJECT LINKS:
 Github repository link : https://github.com/kylecoding1/MEME4.0
